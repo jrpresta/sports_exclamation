@@ -1,3 +1,5 @@
+__pycache__/
+frontend/.DS_Store
 .idea/
 backend/code/scrapers/__pycache__/sites_for_scraping.cpython-36.pyc
 backend/code/scrapers/__pycache__/scrapers.cpython-36.pyc
